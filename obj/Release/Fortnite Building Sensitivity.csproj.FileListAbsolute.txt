@@ -1,0 +1,6 @@
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\bin\Release\Fortnite Building Sensitivity.exe.config
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\bin\Release\Fortnite Building Sensitivity.exe
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\bin\Release\Fortnite Building Sensitivity.pdb
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\obj\Release\Fortnite Building Sensitivity.exe
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\obj\Release\Fortnite Building Sensitivity.pdb
+D:\Users\Sean\source\repos\Fortnite Building Sensitivity\obj\Release\Fortnite Building Sensitivity.csprojAssemblyReference.cache
